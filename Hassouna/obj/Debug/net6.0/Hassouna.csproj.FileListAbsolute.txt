@@ -1,0 +1,15 @@
+C:\Users\Nk\source\repos\WedDev\Hassouna\bin\Debug\net6.0\Hassouna.exe
+C:\Users\Nk\source\repos\WedDev\Hassouna\bin\Debug\net6.0\Hassouna.deps.json
+C:\Users\Nk\source\repos\WedDev\Hassouna\bin\Debug\net6.0\Hassouna.runtimeconfig.json
+C:\Users\Nk\source\repos\WedDev\Hassouna\bin\Debug\net6.0\Hassouna.dll
+C:\Users\Nk\source\repos\WedDev\Hassouna\bin\Debug\net6.0\Hassouna.pdb
+C:\Users\Nk\source\repos\WedDev\Hassouna\obj\Debug\net6.0\Hassouna.csproj.AssemblyReference.cache
+C:\Users\Nk\source\repos\WedDev\Hassouna\obj\Debug\net6.0\Hassouna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nk\source\repos\WedDev\Hassouna\obj\Debug\net6.0\Hassouna.AssemblyInfoInputs.cache
+C:\Users\Nk\source\repos\WedDev\Hassouna\obj\Debug\net6.0\Hassouna.AssemblyInfo.cs
+C:\Users\Nk\source\repos\WedDev\Hassouna\obj\Debug\net6.0\Hassouna.csproj.CoreCompileInputs.cache
+C:\Users\Nk\source\repos\WedDev\Hassouna\obj\Debug\net6.0\Hassouna.dll
+C:\Users\Nk\source\repos\WedDev\Hassouna\obj\Debug\net6.0\refint\Hassouna.dll
+C:\Users\Nk\source\repos\WedDev\Hassouna\obj\Debug\net6.0\Hassouna.pdb
+C:\Users\Nk\source\repos\WedDev\Hassouna\obj\Debug\net6.0\Hassouna.genruntimeconfig.cache
+C:\Users\Nk\source\repos\WedDev\Hassouna\obj\Debug\net6.0\ref\Hassouna.dll
